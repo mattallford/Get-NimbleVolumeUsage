@@ -14,7 +14,7 @@ function Get-NimbleVolumeUsage{
     Specify the full path for the OutputFile (CSV)
 
 .LINK
-http://blog.allford.id.au/2016/powercli-function-configure-esxi-host-for-connectivity-to-nimble-iscsi-san
+http://blog.allford.id.au/2016/esxi-and-nimble-storage-unmap-scsi-blocks/ ‎
 
 .NOTES
 Written By: Matt Allford
