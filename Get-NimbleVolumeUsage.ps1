@@ -11,7 +11,7 @@ function Get-NimbleVolumeUsage{
     Specify the FQDN or IP address for the management interface of the Nimble Storage Group
 
 .PARAMETER OutputFile
-    Specify the full path for the OutputFile (CSV) test
+    Specify the full path for the OutputFile (CSV)
 
 .LINK
 http://blog.allford.id.au/2016/esxi-and-nimble-storage-unmap-scsi-blocks/ ‎
